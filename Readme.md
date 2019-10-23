@@ -4,7 +4,7 @@ Generates Test Case .txt documents
 Compile with "javac testCases.java" </br>
 Execute with "java testCases n [option]" </br>
 Where n is the size of the output (1 -> 100,000,000) </br>
-Options are as Follows: 
+Options are as Follows: </br> 
    gl: Greatest to Least Order (Reverse Array) </br>
    rn: Random Numbers (Standard Array) </br>
    dp: Force Duplicates in the Array (note: rn may generate duplicates, but this forces duplicates) </br>
